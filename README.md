@@ -9,5 +9,5 @@
 Lets consider in detail:
 
 1. The tax applies even if a non‐resident purchased the insurance on your behalf.
-2. The applies even if the insurance was purchased.
+The applies even if the insurance was purchased.
 
