@@ -10,4 +10,4 @@ Lets consider in detail:
 
 1. The tax applies even if a non‐resident purchased the insurance on your behalf.
 The applies even if the insurance was purchased.
-
+2. Note
