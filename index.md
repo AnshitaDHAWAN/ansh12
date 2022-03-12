@@ -9,8 +9,8 @@ Product: SAP
 
 {{site.data.data_demo}}
 
-{% for item in site.data.distances %}
-{{ item.var_name}}
+{% for item in site.data.data_demo %}
+{{ item.name}}
 
 {% endfor %}
 
