@@ -12,3 +12,4 @@ Lets consider in detail:
 The applies even if the insurance was purchased.
 2. Note
 
+One way is, I directly edit the file.
