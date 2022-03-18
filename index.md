@@ -10,8 +10,8 @@ Product: SAP
 [Click here](https://anshitadhawan.github.io/ansh12/file.html) to know more.
 
 
-{% for item in site.data.data_demo %}
-{{ item.name}}
+{% for item in site.data.titanic 2 %}
+{{item.name}},{{ item.age}}
 
 {% endfor %}
 
